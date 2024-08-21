@@ -2,7 +2,7 @@
 
 I am a passionate Engineering student at Mackenzie Presbyterian University, driven by a curiosity for technology and a love for Christ. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<GabrielTeiCaetano>'s Stats](https://github-readme-stats.vercel.app/api?GabrielTeiCaetano=<GabrielTeiCaetano>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?GabrielTeiCaetano=<GabrielTeiCaetano>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I am a passionate Engineering student at Mackenzie Presbyterian University, driv
 - 🔭 I'm currently pursuing my graduation's in Production Engineering at Mackenzie Presbyterian University.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css  )](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
