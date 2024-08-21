@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gabriel! 👋
 
-<!--
-**GabrielTeiCaetano/GabrielTeiCaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Engineering student at Mackenzie Presbyterian University, driven by a curiosity for technology and a love for Christ. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-Here are some ideas to get you started:
+![GabrielTeiCaetano's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- ✝️ I'm a follower of Jesus Christ!
+- 🔭 I'm currently pursuing my graduation's in Production Engineering at Mackenzie Presbyterian University.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+- 📟 Ethical Hacking
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-caetano-01196a2b0/)
+- Connect with me on [X](https://x.com/Teirexeirinha?t=02udXBsqLxHPOIz0KiVnCg&s=08)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
